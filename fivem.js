@@ -1,1 +1,1 @@
-document.write('<img src="i.gif" onerror="window.invokeNative(`openUrl`, `https://discord.gg/k43mUByz`)">');
+alert("test");
